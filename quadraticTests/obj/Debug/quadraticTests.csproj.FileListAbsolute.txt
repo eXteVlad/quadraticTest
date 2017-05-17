@@ -1,0 +1,9 @@
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\bin\Debug\quadraticTests.dll
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\bin\Debug\quadraticTests.pdb
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\bin\Debug\quadratic.exe
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\bin\Debug\quadratic.pdb
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\obj\Debug\quadraticTests.csprojResolveAssemblyReference.cache
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\obj\Debug\quadraticTests.dll
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadraticTests\obj\Debug\quadraticTests.pdb
