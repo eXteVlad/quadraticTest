@@ -1,0 +1,9 @@
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\bin\Debug\quadratic.exe.config
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\bin\Debug\quadratic.exe
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\bin\Debug\quadratic.pdb
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\obj\Debug\quadratic.csprojResolveAssemblyReference.cache
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\obj\Debug\quadratic.Form1.resources
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\obj\Debug\quadratic.Properties.Resources.resources
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\obj\Debug\quadratic.csproj.GenerateResource.Cache
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\obj\Debug\quadratic.exe
+c:\users\extev\onedrive\documents\visual studio 2015\Projects\quadratic\obj\Debug\quadratic.pdb
