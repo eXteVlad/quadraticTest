@@ -2,4 +2,4 @@ general:
   build_dir: quadraticTests
 test:
   override:
-    - c# ./quadraticTests/Form1Tests.cs
+    - ./quadraticTests/Form1Tests.cs
