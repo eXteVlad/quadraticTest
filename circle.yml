@@ -1,2 +1,5 @@
 general:
   build_dir: quadraticTests
+test:
+  override:
+    - php ./test-suite/run.php --unit-tests
