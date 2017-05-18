@@ -1,10 +1,2 @@
 general:
   build_dir: quadraticTests
-test:
-  override:
-    - phpunit test/unit-tests # use PHPunit for testing
-  post:
-    - bundle exec rake Form1Tests:cs: # add an extra test type
-        environment:
-          Disc_321_1: test
-          Disc_111_neg3: test
